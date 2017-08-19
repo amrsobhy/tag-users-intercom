@@ -1,0 +1,19 @@
+{
+  "name": "payment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "csv-parse": "^1.2.1",
+    "fast-csv": "^2.4.0",
+    "intercom-client": "^2.8.4",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amr Sobhy",
+  "license": "ISC"
+}
